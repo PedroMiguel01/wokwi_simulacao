@@ -1,6 +1,6 @@
 # Descrição do projeto
 
-# Este projeto propõe um sistema automatizado e inteligente para captação, armazenamento e utilização da água da chuva na irrigação de forma sustentável. A placa principal utilizada é a ESP8266, responsável pelo controle de toda a automação. Ela se conecta via Wi-Fi a uma rede local, permitindo o monitoramento remoto e o envio de notificações através do Telegram, utilizando o protocolo MQTT com integração ao message broker HiveMQ.
+Este projeto propõe um sistema automatizado e inteligente para captação, armazenamento e utilização da água da chuva na irrigação de forma sustentável. A placa principal utilizada é a ESP8266, responsável pelo controle de toda a automação. Ela se conecta via Wi-Fi a uma rede local, permitindo o monitoramento remoto e o envio de notificações através do Telegram, utilizando o protocolo MQTT com integração ao message broker HiveMQ.
 
 Para integrar sensores e atuadores, é utilizada uma protoboard de 400 pontos, facilitando a prototipagem e a conexão entre os componentes eletrônicos.
 
@@ -31,6 +31,6 @@ Implementações futuras podem incluir o uso de um Sensor de Chuva, para inibir 
 Este sistema visa promover a economia de água potável e estimular práticas de irrigação sustentáveis, aliando tecnologia IoT e automação residencial.
 
 
-
-# 1- Acesse Wowki
+# Como executar o projeto
+1- Acesse Wowki
 2- Realize o upload do arquivo "wifi-scan.ino", "diagram.json", "libraries.txt"
