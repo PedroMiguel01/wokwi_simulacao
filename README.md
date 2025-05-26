@@ -33,4 +33,5 @@ Este sistema visa promover a economia de água potável e estimular práticas de
 
 # Como executar o projeto
 1- Acesse Wowki
+
 2- Realize o upload do arquivo "wifi-scan.ino", "diagram.json", "libraries.txt"
